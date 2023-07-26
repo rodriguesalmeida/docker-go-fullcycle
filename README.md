@@ -1,1 +1,2 @@
-"# docker-go-fullcycle" 
+Projeto desenvolvido por: Anderson Rodrigues de Almeida
+Desafio de GO com Docker
